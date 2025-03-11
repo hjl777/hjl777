@@ -1,10 +1,13 @@
 # Hi, I'm Hojae Lee! 👋
 
-I'm a graduate researcher specializing in Pharmaceutical Big Data Analysis with extensive experience in Machine Learning, Deep Learning, and Multimodal Data Analysis. I'm passionate about creating impactful AI-driven healthcare solutions.
+I'm a graduate researcher specializing in Pharmaceutical Big Data Analysis in Kyung Hee University College of Pharmacy with extensive experience in Machine Learning, Deep Learning, and Multimodal Data Analysis. I'm passionate about creating impactful AI-driven healthcare solutions.
 
 ## 📚 Education
 
-M.S. in Pharmaceutical Big Data Analysis (Mar 2023 - Feb 2025)Kyung Hee University, South KoreaThesis: "Development of A Machine Learning-Based Prediction Algorithm for Suicidal Ideation in Adolescents and Independent Validation Across Three Worldwide Cohorts"
+M.S. Researcher in Center for Digital Health, Kyung Hee University Medical Center
+
+M.S. in Pharmaceutical Big Data Analysis (Mar 2023 - Feb 2025)Kyung Hee University, South Korea
+Thesis: "Development of A Machine Learning-Based Prediction Algorithm for Suicidal Ideation in Adolescents and Independent Validation Across Three Worldwide Cohorts"
 
 B.S. in Mathematics (Mar 2016 - Feb 2023)Korea University, South Korea
 
@@ -64,7 +67,7 @@ Mentoring Volunteer, Gangnam-gu Family Support Center (2017-2018)
 
 📫 Connect with Me
 
-Email: iceanon1@gmail.com
+Email: iceanon1@gmail.com/iceanon1@khu.ac.kr/iceanon1@amc.seoul.kr
 
 LinkedIn: [Here is my LinkeIn Page!](https://www.linkedin.com/in/lee-ho-jae-247b29266/)
 
