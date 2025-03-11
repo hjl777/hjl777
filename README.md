@@ -1,7 +1,6 @@
 # Hi, I'm Hojae Lee! 👋
 
 I'm a graduate researcher specializing in Pharmaceutical Big Data Analysis in Kyung Hee University College of Pharmacy with extensive experience in Machine Learning, Deep Learning, and Multimodal Data Analysis.
-
 I'm passionate about creating impactful AI-driven healthcare solutions.
 
 ## 📚 Education
